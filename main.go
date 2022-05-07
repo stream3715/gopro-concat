@@ -1,7 +1,11 @@
+/*
+Copyright © 2022 stream3715 <stream.larn3@gmail.com>
+
+*/
 package main
 
-import "fmt"
+import "github.com/stream3715/gopro-concat/cmd"
 
 func main() {
-	fmt.Println("Hello, world")
+	cmd.Execute()
 }
